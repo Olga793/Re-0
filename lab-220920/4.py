@@ -13,7 +13,7 @@ line(screen, pygame.Color(255, 255, 192), (200, 250), (700, 250), 20)
 line(screen, pygame.Color(255, 255, 192), (450, 0), (450, 500), 20)
 circle(screen, pygame.Color(255, 255, 128), (450, 250), 25, 0)
 circle(screen, pygame.Color(255, 255, 128), (450, 250), 250, 20)
-
+ellipse(screen, (0, 0, 0), rect(0, 500, 200, 500), 1)
 
 pygame.display.update()
 clock = pygame.time.Clock()
