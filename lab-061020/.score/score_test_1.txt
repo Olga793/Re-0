@@ -1,0 +1,18 @@
+Belkov_V was playing the game at Thu Jan  1 03:01:03 1970 and scored 157 points in Size and 81 points in Speed.
+test run was playing the game at Tue Oct  6 13:14:02 2020 and scored 0 points in Size and 0 points in Speed.
+test run was playing the game at Tue Oct  6 13:37:30 2020 and scored 128 points in Size and 81 points in Speed.
+test run was playing the game at Tue Oct  6 13:39:14 2020 and scored 0 points in Size and 0 points in Speed.
+test run was playing the game at Tue Oct  6 13:40:03 2020 and scored 0 points in Size and 0 points in Speed.
+test run was playing the game at Tue Oct  6 13:41:15 2020 and scored 0 points in Size and 0 points in Speed.
+test run was playing the game at Tue Oct  6 13:43:18 2020 and scored 180 points in Size and 108 points in Speed.
+test run was playing the game at Tue Oct  6 13:45:01 2020 and scored 0 points in Size and 0 points in Speed.
+test subject was playing the game at Tue Oct  6 14:33:23 2020 and scored 0 points in Size and 0 points in Speed.
+test subject was playing the game at Tue Oct  6 14:35:53 2020 and scored 13 points in Size and 8 points in Speed.
+test subject was playing the game at Tue Oct  6 14:38:59 2020 and scored 248 points in Size and 156 points in Speed.
+test subject was playing the game at Tue Oct  6 14:51:41 2020 and scored 347 points in Size, 220 points in Speed and 6 special points.
+test-subject-2 was playing the game at Tue Oct  6 15:11:16 2020 and scored 338 points in Size, 178 points in Speed and 5 special points.
+k was playing the game at Tue Oct  6 15:12:13 2020 and scored 0 points in Size, 0 points in Speed and 1 special points.
+k was playing the game at Tue Oct  6 15:12:54 2020 and scored 87 points in Size, 50 points in Speed and 2 special points.
+k was playing the game at Tue Oct  6 15:16:03 2020 and scored 420 points in Size, 234 points in Speed and 6 special points.
+
+ was playing the game at Tue Oct  6 15:16:42 2020 and scored 0 points in Size, 0 points in Speed and 1 special points.

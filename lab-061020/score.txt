@@ -1,0 +1,5 @@
+963 % (unknown) % test-subject-2 % Tue Oct  6 15:31:37 2020
+714 % (420 points in Size, 234 points in Speed, 60 special points) % Belkov_V % Tue Oct  6 15:16:03 2020
+94 % (66 points in Size, 28 points in Speed, 0 special points) % test-subject-D3 % Tue Oct  6 16:36:47 2020
+47 % (31 points in Size, 16 points in Speed, 0 special points) % test-subject-D3 % Tue Oct  6 16:35:37 2020
+30 % (22 points in Size, 8 points in Speed, 0 special points) % test-subject-D3 % Tue Oct  6 16:27:37 2020
